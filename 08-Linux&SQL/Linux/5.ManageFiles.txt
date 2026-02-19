@@ -1,0 +1,13 @@
+mkdir logs
+
+rmdir temp
+
+mv Q3patches.txt /home/analyst/reports/
+
+rm tempnotes.txt
+
+touch tasks.txt
+
+nano tasks.txt
+
+cat tasks.txt

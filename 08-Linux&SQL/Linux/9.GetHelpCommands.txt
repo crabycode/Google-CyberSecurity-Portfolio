@@ -1,0 +1,5 @@
+whatis cat
+man cat
+apropos -a first part file
+man useradd
+apropos -a create new group

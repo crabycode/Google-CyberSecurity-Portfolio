@@ -1,0 +1,15 @@
+ls -la
+
+chmod o-w project_k.txt
+
+ls -l project_k.txt
+
+chmod a-w .project_x.txt
+chmod u+r .project_x.txt
+chmod g+r .project_x.txt
+
+ls -l .project_x.txt
+
+chmod go-rwx draft
+
+ls -ld draft

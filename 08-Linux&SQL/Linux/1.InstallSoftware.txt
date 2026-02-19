@@ -1,0 +1,13 @@
+apt 
+
+sudo apt install suricata
+    Note: The apt install and apt remove commands must be prefixed with the sudo command as elevated privileges are required to install and uninstall software in Linux.
+
+suricata
+
+sudo apt remove suricata
+
+sudo apt install tcpdump
+
+apt list --installed
+    list all installed apps
